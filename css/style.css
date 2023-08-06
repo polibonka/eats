@@ -2,7 +2,7 @@
   --text: #252b42;
   --second-text: #737373;
   --light-text: #fff;
-  --second-text:#5C5C5C;
+  --second-text: #5c5c5c;
 }
 
 body {
@@ -216,30 +216,29 @@ button:hover {
   background-color: rgba(0, 0, 0, 0);
 }
 
-.store_btns{
-    display: flex;
-    justify-content: center;
-    gap: 16px;
-    margin-top: 59px;
+.store_btns {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 59px;
 }
 
-.footer_text{
-    color: var(--second-text);
-text-align: right;
-font-family: Roboto;
-font-size: 12px;
-font-style: normal;
-font-weight: 700;
-line-height: 18px; /* 150% */
-letter-spacing: 0.1px;
+.footer_text {
+  color: var(--second-text);
+  text-align: right;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 18px; /* 150% */
+  letter-spacing: 0.1px;
 }
 
-.footer{
-    padding: 112px 0 58px 0;
+.footer {
+  padding: 112px 0 58px 0;
 }
 
-.footer>.container{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.footer > .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
