@@ -130,6 +130,10 @@ button:hover {
   gap: 67px;
 }
 
+.works {
+  padding: 65px 0 185px;
+}
+
 .work_title {
   color: #000;
   font-family: Poppins;
@@ -139,6 +143,7 @@ button:hover {
   line-height: 36px; /* 81.818% */
   letter-spacing: 0.1px;
   text-align: center;
+  margin: 0;
 }
 
 .works_create-subtitle {
@@ -176,6 +181,7 @@ button:hover {
   justify-content: space-between;
   gap: 287px;
   padding-top: 200px;
+  margin-top: 70px;
 }
 
 .store {
